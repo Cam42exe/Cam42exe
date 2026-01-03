@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cam42exe aka Simon.
-- 👀 I’m interested in basicly anything computer related, espacially how to break and reconstruct it better.
+- 👀 I’m interested in safety, embedded, robotics, automation and CNC machining.
 - 🌱 I’m currently learning a lot.
-> - 💞️ I’m looking to collaborate on school projects and for internships.
+> - 💞️ I’m looking for internships.
 - 😄 Pronouns: he/him
 
 <!---
